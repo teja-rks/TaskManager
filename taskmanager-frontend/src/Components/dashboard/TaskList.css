@@ -1,0 +1,11 @@
+.task-list {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 15px;
+  }
+  
+  @media (min-width: 768px) {
+    .task-list {
+      grid-template-columns: 1fr 1fr;
+    }
+  }
