@@ -80,9 +80,6 @@ cd task-manager-app
 1. Open the frontend at: **http://localhost:5173**
 2. Perform CRUD operations on tasks.
 
-## 📷 Screenshots (Optional)
-_Add screenshots of your app UI_
-
 ## 🤝 Contributing
 Contributions are welcome! Feel free to **fork** this repository and submit a **pull request**.
 
